@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.f659b4d0.js",
+    "static/js/453.858e074b.chunk.js": "/static/js/453.858e074b.chunk.js",
+    "static/media/logobg.png": "/static/media/logobg.2f4d062f0ff09051047c.png",
+    "static/media/swamiji.jpeg": "/static/media/swamiji.0ae054c7455b082d9b18.jpeg",
+    "static/media/manthra.mp3": "/static/media/manthra.3787ac7fdaa58ab5091e.mp3",
+    "index.html": "/index.html",
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.f659b4d0.js.map": "/static/js/main.f659b4d0.js.map",
+    "453.858e074b.chunk.js.map": "/static/js/453.858e074b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f659b4d0.js"
+  ]
+}
